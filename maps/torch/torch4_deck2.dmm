@@ -15956,8 +15956,10 @@
 /obj/item/roller,
 /obj/item/roller,
 /obj/item/roller,
-/obj/item/roller,
 /obj/structure/table/rack,
+/obj/item/weapon/storage/firstaid/empty,
+/obj/item/weapon/storage/firstaid/empty,
+/obj/item/weapon/storage/firstaid/empty,
 /turf/simulated/floor/tiled/techfloor,
 /area/storage/medical)
 "JX" = (
