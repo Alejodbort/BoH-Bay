@@ -15747,6 +15747,10 @@
 	},
 /turf/simulated/floor/reinforced,
 /area/shuttle/petrov/cell2)
+"FE" = (
+/obj/structure/sign/double/icarus/solgovflag/right,
+/turf/simulated/wall/r_wall/hull,
+/area/security/infantry)
 "FH" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
@@ -16131,6 +16135,10 @@
 	},
 /turf/simulated/floor/lino,
 /area/shuttle/petrov/rd)
+"Hg" = (
+/obj/structure/sign/double/icarus/solgovflag/left,
+/turf/simulated/wall/r_wall/hull,
+/area/security/infantry)
 "Hk" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
@@ -18627,6 +18635,10 @@
 	},
 /turf/simulated/floor/plating,
 /area/vacant/bar)
+"QN" = (
+/obj/structure/sign/double/icarus/solgovflag/left,
+/turf/simulated/wall/r_wall/hull,
+/area/security/infantry/armory)
 "QQ" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/random/trash,
@@ -20661,6 +20673,10 @@
 /obj/effect/floor_decal/techfloor,
 /turf/simulated/floor/tiled/techfloor/grid,
 /area/exploration_shuttle/cargo)
+"Zi" = (
+/obj/structure/sign/double/icarus/solgovflag/right,
+/turf/simulated/wall/r_wall/hull,
+/area/security/infantry/armory)
 "Zl" = (
 /obj/item/device/radio/intercom{
 	pixel_y = 26
@@ -32054,7 +32070,7 @@ aa
 If
 If
 If
-If
+QN
 hG
 ib
 pO
@@ -32256,7 +32272,7 @@ If
 If
 cU
 gG
-If
+Zi
 hG
 ic
 pV
@@ -32668,7 +32684,7 @@ sI
 uQ
 vb
 vi
-OE
+Hg
 dt
 kH
 kK
@@ -32870,7 +32886,7 @@ sN
 uR
 qp
 LG
-OE
+FE
 fc
 dt
 kK
