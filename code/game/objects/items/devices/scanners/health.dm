@@ -111,7 +111,7 @@
 		brain_result = "<span class='scan_danger'>ERROR - Biologia no estandar</span>"
 	dat += "Actividad cerebral: [brain_result]."
 	if (H.internal_organs_by_name[BP_STACK])
-		dat += "<span class='scan_notice'>El sujeto tiene un implante de enlace neural.(</span>"
+		dat += "<span class='scan_notice'>El sujeto tiene un implante de enlace neural.</span>"
 
 	if(H.stat == DEAD || (H.status_flags & FAKEDEATH))
 		dat += "<span class='scan_warning'>[b]Hora de muerte:[endb] [time2text(worldtime2stationtime(H.timeofdeath), "hh:mm")]</span>"
